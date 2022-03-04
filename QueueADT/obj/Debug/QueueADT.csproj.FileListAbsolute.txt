@@ -1,0 +1,7 @@
+F:\Files\Documents\School\Barton\Computer Science\QueueADT\bin\Debug\QueueADT.exe.config
+F:\Files\Documents\School\Barton\Computer Science\QueueADT\bin\Debug\QueueADT.exe
+F:\Files\Documents\School\Barton\Computer Science\QueueADT\bin\Debug\QueueADT.pdb
+F:\Files\Documents\School\Barton\Computer Science\QueueADT\obj\Debug\QueueADT.csproj.AssemblyReference.cache
+F:\Files\Documents\School\Barton\Computer Science\QueueADT\obj\Debug\QueueADT.csproj.CoreCompileInputs.cache
+F:\Files\Documents\School\Barton\Computer Science\QueueADT\obj\Debug\QueueADT.exe
+F:\Files\Documents\School\Barton\Computer Science\QueueADT\obj\Debug\QueueADT.pdb
