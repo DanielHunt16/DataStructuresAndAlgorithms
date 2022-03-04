@@ -1,0 +1,7 @@
+F:\Files\Documents\School\Barton\Computer Science\StacksADT\bin\Debug\StacksADT.exe.config
+F:\Files\Documents\School\Barton\Computer Science\StacksADT\bin\Debug\StacksADT.exe
+F:\Files\Documents\School\Barton\Computer Science\StacksADT\bin\Debug\StacksADT.pdb
+F:\Files\Documents\School\Barton\Computer Science\StacksADT\obj\Debug\StacksADT.csproj.AssemblyReference.cache
+F:\Files\Documents\School\Barton\Computer Science\StacksADT\obj\Debug\StacksADT.csproj.CoreCompileInputs.cache
+F:\Files\Documents\School\Barton\Computer Science\StacksADT\obj\Debug\StacksADT.exe
+F:\Files\Documents\School\Barton\Computer Science\StacksADT\obj\Debug\StacksADT.pdb
