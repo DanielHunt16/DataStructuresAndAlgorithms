@@ -1,0 +1,7 @@
+F:\Files\Documents\School\Barton\Computer Science\LinkedListADT\bin\Debug\LinkedListADT.exe.config
+F:\Files\Documents\School\Barton\Computer Science\LinkedListADT\bin\Debug\LinkedListADT.exe
+F:\Files\Documents\School\Barton\Computer Science\LinkedListADT\bin\Debug\LinkedListADT.pdb
+F:\Files\Documents\School\Barton\Computer Science\LinkedListADT\obj\Debug\LinkedListADT.csproj.AssemblyReference.cache
+F:\Files\Documents\School\Barton\Computer Science\LinkedListADT\obj\Debug\LinkedListADT.csproj.CoreCompileInputs.cache
+F:\Files\Documents\School\Barton\Computer Science\LinkedListADT\obj\Debug\LinkedListADT.exe
+F:\Files\Documents\School\Barton\Computer Science\LinkedListADT\obj\Debug\LinkedListADT.pdb
