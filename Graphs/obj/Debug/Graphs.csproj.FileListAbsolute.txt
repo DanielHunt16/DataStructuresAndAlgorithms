@@ -1,0 +1,7 @@
+F:\Files\Documents\Computer\Coding\C#\DataStructuresAndAlgorithms\Graphs\bin\Debug\Graphs.exe.config
+F:\Files\Documents\Computer\Coding\C#\DataStructuresAndAlgorithms\Graphs\bin\Debug\Graphs.exe
+F:\Files\Documents\Computer\Coding\C#\DataStructuresAndAlgorithms\Graphs\bin\Debug\Graphs.pdb
+F:\Files\Documents\Computer\Coding\C#\DataStructuresAndAlgorithms\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+F:\Files\Documents\Computer\Coding\C#\DataStructuresAndAlgorithms\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+F:\Files\Documents\Computer\Coding\C#\DataStructuresAndAlgorithms\Graphs\obj\Debug\Graphs.exe
+F:\Files\Documents\Computer\Coding\C#\DataStructuresAndAlgorithms\Graphs\obj\Debug\Graphs.pdb
