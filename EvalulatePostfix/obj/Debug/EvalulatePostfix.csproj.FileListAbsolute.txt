@@ -1,0 +1,7 @@
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\EvalulatePostfix\bin\Debug\EvalulatePostfix.exe.config
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\EvalulatePostfix\bin\Debug\EvalulatePostfix.exe
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\EvalulatePostfix\bin\Debug\EvalulatePostfix.pdb
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\EvalulatePostfix\obj\Debug\EvalulatePostfix.csprojAssemblyReference.cache
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\EvalulatePostfix\obj\Debug\EvalulatePostfix.csproj.CoreCompileInputs.cache
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\EvalulatePostfix\obj\Debug\EvalulatePostfix.exe
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\EvalulatePostfix\obj\Debug\EvalulatePostfix.pdb

@@ -1,0 +1,7 @@
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.exe.config
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.exe
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.pdb
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.csprojAssemblyReference.cache
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.csproj.CoreCompileInputs.cache
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.exe
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.pdb
