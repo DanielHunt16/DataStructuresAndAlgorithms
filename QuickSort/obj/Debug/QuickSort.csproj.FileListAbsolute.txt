@@ -1,0 +1,6 @@
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\QuickSort\bin\Debug\QuickSort.exe.config
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\QuickSort\bin\Debug\QuickSort.exe
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\QuickSort\bin\Debug\QuickSort.pdb
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\QuickSort\obj\Debug\QuickSort.exe
+\\LAPETUS\HOME\2021\21DH1756\DataStructruesAndAlgorithms\QuickSort\obj\Debug\QuickSort.pdb
