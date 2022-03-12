@@ -1,4 +1,5 @@
-﻿using System;
+// Uses Lomuto's Partion scheme 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,80 +11,85 @@ namespace QuickSort
     {
         static void Main(string[] args)
         {
-           int[] a = {1, 2, 3 ,5, 7, 8, 4, 6 }; 
+            int[] a;
+            
+            Random random = new Random();
 
-            QuickSort quickSort = new QuickSort(a);
+            int length = random.Next(1, int.MaxValue/1000);
+            a = new int[length];
 
-            quickSort.Quicksort(0, a.Length - 1);
-
-            for(int i = 0; i < quickSort.A.Length; i++)
+            for(int i = 0; i < length; i++)
             {
-                if (i == quickSort.A.Length - 1)
+                a[i] = random.Next(1, int.MaxValue);
+            }
+            
+            
+            Sort sort = new Sort(a);
+
+            sort.quickSort(0, a.Length - 1);            
+
+            for (int i = 0; i < sort.A.Length; i++)
+            {
+                if (i == sort.A.Length - 1)
                 {
-                    Console.Write($"{quickSort.A[i]}");
+                    Console.Write($"{sort.A[i]}");
                 }
                 else
                 {
-                    Console.Write($"{quickSort.A[i]}, ");
+                    Console.Write($"{sort.A[i]}, ");
                 }
-                
+
             }
 
             Console.ReadLine();
         }
-    }
+    }    
 
-    class QuickSort
-    {    
+    class Sort 
+    { 
+
         public int[] A { get; set; }
 
-        public QuickSort(int[] a)
+        public Sort(int[] arrayIn)
         {
-            A = a;
+            A = arrayIn;
         }
 
-        public int Quicksort(int lo, int hi)
+        public void quickSort(int low, int high)
         {
-            if( lo >= hi || lo < 0)
+            int partitionIndex;
+
+            if(low < high)
             {
-                return -1;
+                partitionIndex = partition(low, high);
+
+                quickSort(low, partitionIndex - 1);
+                quickSort(partitionIndex + 1, high);
             }
-
-            int p = Partition( lo, hi);
-
-            Quicksort( lo, p - 1);
-            Quicksort( p + 1, hi);
-
-            return 1;
         }
 
-        private int Partition ( int lo, int hi)
+        public int partition(int low, int high)
         {
-            int pivot = A[hi];
-            int i;
+            int pivot = A[high];
+            int i = low - 1;
             int temp;
 
-            i = lo - 1;
-
-            for(int j = lo; j < hi-1; j++)
+            for(int j = low; j <= high-1; j++)
             {
-                if(A[j] <= pivot)
+                if(A[j] < pivot)
                 {
                     i++;
+                    temp = A[i];
+                    A[i] = A[j];
+                    A[j] = temp;
                 }
-
-                temp = A[j];
-                A[j] = A[i];
-                A[i] = temp;
             }
 
-            i++;
+            temp = A[i + 1];
+            A[i + 1] = A[high];
+            A[high] = temp;
 
-            temp = A[hi];
-            A[hi] = A[i];
-            A[i] = temp;
-
-            return i;
+            return i + 1;
         }
 
     }
